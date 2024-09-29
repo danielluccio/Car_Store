@@ -1,0 +1,6 @@
+# Ignorar o arquivo de configurações
+*.py[cod]
+Core/settings.py
+
+# Ignorar migrações
+App/migrations/
